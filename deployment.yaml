@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: javaapp1
-        image: neehar2601/javaapp2:v1
+        image: chakkadocker/javaappnew2:v1
         ports:
-        - containerPort: 8080
+        - containerPort: 8004
